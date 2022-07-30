@@ -11,10 +11,6 @@ img = cv2.rotate(img  , cv2.cv2.ROTATE_90_CLOCKWISE)
 
 cv2.imwrite("images/new_auau.jpg" , img)
 
-
-
-
-
 cv2.imshow("Image" , img)
 
 
